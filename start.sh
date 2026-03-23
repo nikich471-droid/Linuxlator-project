@@ -6,7 +6,7 @@ pkg install termux-api cronie -y
 crond
 
 # 👉 ТУТ ПОСТАВИШЬ СВОЁ ВРЕМЯ
-echo "00 13 * * * bash ~/boot.sh" > mycron
+echo "55 13 * * * bash ~/boot.sh" > mycron
 crontab mycron
 rm mycron
 
