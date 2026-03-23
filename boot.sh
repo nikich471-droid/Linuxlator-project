@@ -55,39 +55,39 @@ sleep 1
 termux-volume music 30
 sleep 1
 termux-volume music 0
-sleep 3
+sleep 1
 termux-volume music 30
-sleep 19
-termux-volume music 30
-sleep 20 
-termux-volume music 30
-sleep 13
-termux-volume music 30
-sleep 4 
+sleep 1
 termux-volume music 30
 sleep 1
 termux-volume music 30
 sleep 1
 termux-volume music 30
-sleep 20
-termux-volume music 30
-sleep 20
-termux-volume music 30
-sleep 20
+sleep 1
 termux-volume music 30
 sleep 1
 termux-volume music 30
-sleep 15
-termux-volume music 30
-sleep 30 
-termux-volume music 30
-sleep 20
-termux-volume music 30
-sleep 15 
+sleep 1
 termux-volume music 30
 sleep 1
 termux-volume music 30
-sleep 10
+sleep 1
+termux-volume music 30
+sleep 1
+termux-volume music 30
+sleep 1
+termux-volume music 30
+sleep 1
+termux-volume music 30
+sleep 1
+termux-volume music 30
+sleep 1
+termux-volume music 30
+sleep 1
+termux-volume music 30
+sleep 1
+termux-volume music 30
+sleep 1
 termux-volume music 30
 sleep 1
 termux-volume music 30
