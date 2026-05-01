@@ -1,6 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
-pkg install termux-api cronie -y
+pkg install termux-api cronie python -y
 
 # Запуск cron
 crond
