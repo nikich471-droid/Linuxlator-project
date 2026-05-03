@@ -2,6 +2,8 @@
 
 termux-wallpaper -f /data/data/com.termux/files/home/file.jpg
 
+termux-brightness 255
+
 termux-volume music 30
 sleep 1
 termux-media-player play ~/file.mp3
