@@ -2,6 +2,8 @@
 
 termux-wallpaper -f /data/data/com.termux/files/home/file.jpg
 
+bash HTML.sh
+
 termux-brightness 255
 
 termux-volume music 30
