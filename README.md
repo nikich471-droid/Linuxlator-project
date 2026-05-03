@@ -20,19 +20,24 @@ git clone https://github.com/nikich471-droid/Linuxlator-project
 4. paste command
 
 ```bash
-mv * ~
+cd Linuxlator-project
 ```
 5. paste command
 
 ```bash
-cd ~
+mv * ~
 ```
 6. paste command
 
 ```bash
-rm -rf Linuxlator-project
+cd ~
 ```
 7. paste command
+
+```bash
+rm -rf Linuxlator-project
+```
+8. paste command
 
 ```bash
 rm README.md
